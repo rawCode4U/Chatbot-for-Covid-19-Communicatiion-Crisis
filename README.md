@@ -40,8 +40,7 @@ It can:
 The challenge for you is to build out from this framework to create a more complete solution.
 
 ## How it works
-[Chatbot Demo](https://youtu.be/ImunXQ5j3EU)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ImunXQ5j3EU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch Chatbot Demo on Youtube](https://youtu.be/ImunXQ5j3EU)
 ## Diagrams
 
 ### Website integration with COVID-19 crisis communication chatbot
@@ -138,6 +137,21 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
 
 Finally, you can embed your COVID-19 crisis communication chatbot on a Node.js website.
 
+## Sample questions you may like to know
+1. Why is the disease being called corona virus disease 2019, COVID-19
+2. Should my child wear a face mask?
+3. Why is  Corona Virus (COVID-19) spreading between people?
+4. Where do i need to disinfect?
+5. Can a person test negative and later test positive for COVID-19?
+6. What should I have my family do to keep from getting sick?
+7. What should healthcare professionals and health departments do?
+8. While school’s out, how can I help my child continue learning?
+9. What should I do if someone in my house gets sick with COVID-19?
+10. Why might someone blame or avoid individuals and groups (create stigma) because of COVID-19?
+11. Will warm weather stop the outbreak of COVID-19?
+12. Who is at higher risk for serious illness from COVID-19?
+
+
 ## Disclosures
 
 This tool is intended to provide information based on currently available CDC and other public information to help you make decisions about seeking appropriate medical care. This system is not intended for the diagnosis or treatment of disease or other conditions, including COVID-19, and you should not provide any personally identifying or private health information.
@@ -150,3 +164,4 @@ This Watson Assistant bot is populated with data that is sourced from the follow
 
 ### Thank you!
   Hope this Chat bot helps you to clear you most of the quries regarding  covid 19.
+  Go and explore Chatbot find your answer[Covid Chatbot](https:bit.ly/Covid-19bot)
