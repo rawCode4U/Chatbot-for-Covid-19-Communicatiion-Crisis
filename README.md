@@ -1,4 +1,4 @@
-# ChatBot for COVID Crisis Communications 
+# ChatBot for COVID-19 Communications Crisis
 ## Team Name
 Dummy Varible
 ## Team members
