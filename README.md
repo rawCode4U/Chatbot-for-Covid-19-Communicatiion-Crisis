@@ -1,4 +1,4 @@
-# Chot Bot for COVID Crisis Communications 
+# ChatBot for COVID Crisis Communications 
 ## Team Name
 Dummy Varible
 ## Team members
@@ -164,4 +164,4 @@ This Watson Assistant bot is populated with data that is sourced from the follow
 
 ### Thank you!
   Hope this Chat bot helps you to clear you most of the quries regarding  covid 19.
-  Go and explore Chatbot find your answer[Covid Chatbot](https:bit.ly/Covid-19bot)
+  Go and explore Chatbot find your answer [Covid Chatbot](https:bit.ly/Covid-19bot)
