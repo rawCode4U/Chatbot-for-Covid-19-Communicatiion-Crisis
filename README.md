@@ -41,6 +41,7 @@ The challenge for you is to build out from this framework to create a more compl
 
 ## How it works
 [Chatbot Demo](https://youtu.be/ImunXQ5j3EU)
+https://youtu.be/ImunXQ5j3EU
 ## Diagrams
 
 ### Website integration with COVID-19 crisis communication chatbot
