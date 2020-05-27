@@ -2,9 +2,9 @@
 ## Team Name
 Dummy Varible
 ## Team members
-Abhishek Kumar (Team Leader)
-Shubham Kumar
-Saurabh kumar
+1.Abhishek Kumar (Team Leader)
+2.Shubham Kumar
+3.Saurabh kumar
 
 ## Contents
 
@@ -22,7 +22,7 @@ Saurabh kumar
 ## Overview
 
 ### What's the problem?
-In times of crisis, communications systems are often overwhelmed with people trying to find basic information about testing, symptoms, community response, and other resources. When communication lines get clogged, people who need real help can't get through.So, I am made this Chatbots help peoples giving information about Covid 19 Safety ,precautions, News and many more from trusted Sources.
+In times of crisis, communications systems are often overwhelmed with people trying to find basic information about testing, symptoms, community response, and other resources. When communication lines get clogged, people who need real help can't get through.So, I am made this Chatbot help peoples giving information about Covid 19 Safety ,precautions, News and many more from trusted Sources.
 
 
 ## The idea
@@ -40,8 +40,7 @@ It can:
 The challenge for you is to build out from this framework to create a more complete solution.
 
 ## How it works
-
-![Chatbot Demo](/images/Chatbot-Demo.gif)
+[Chatbot Demo](https://youtu.be/ImunXQ5j3EU)
 ## Diagrams
 
 ### Website integration with COVID-19 crisis communication chatbot
