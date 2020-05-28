@@ -17,7 +17,7 @@ Dummy Varible
 7. [Technology](#technology)
 8. [Getting started](#getting-started)
 9. [Resources](#resources)
-10.[Thank you](#thank-you)
+10. [Thank you](#thank-you)
 
 ## Overview
 
@@ -164,4 +164,4 @@ This Watson Assistant bot is populated with data that is sourced from the follow
 
 ### Thank you!
   Hope this Chat bot helps you to clear you most of the quries regarding  covid 19.
-  Go and explore Chatbot find your answer [Covid Chatbot](https:bit.ly/Covid-19bot)
+  Go and explore Chatbot find your answer [Covid Chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=02459315-3666-46ac-80cb-82613629ba86&serviceInstanceID=300b5f6d-4e9b-41de-8478-0356561662bd)
